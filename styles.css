@@ -1,0 +1,130 @@
+footer {
+  position: relative;
+  text-align: right;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  margin-top: auto;
+  padding: 50px 20px 20px;
+}
+
+.navbar-custom {
+  background-color: transparent;
+  font-family: "Special Elite", cursive;
+  font-size: large;
+}
+
+body {
+  background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(images/home.png) no-repeat center center fixed;
+  -webkit-background-size: 100%;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+}
+
+.body-home {
+  text-align: center;
+}
+
+.body-description {
+  text-align: left;
+  padding: 50px 150px;
+}
+
+.body-page {
+  padding: 0px 150px;
+}
+
+Link:hover {
+  size: 2rem;
+}
+
+h2 {
+  text-align: center;
+  font-family: "Special Elite", cursive;
+  padding: 50px;
+}
+
+h4 {
+  padding: 40px 0px 0px 0px;
+  font-weight: bolder;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.Title-Home {
+  text-align: center;
+  font-size: 6rem;
+  padding-top: 50px;
+  padding-bottom: 0px;
+  font-family: "Frijole", cursive;
+  color: red;
+  padding: 50px 150px 0px;
+}
+
+.slogan {
+  color: lightgray;
+  padding: 0;
+}
+
+.fade-in {
+  animation: fadeIn ease 3s;
+  -webkit-animation: fadeIn ease 10s;
+  -moz-animation: fadeIn ease 10s;
+  -o-animation: fadeIn ease 10s;
+  -ms-animation: fadeIn ease 10s;
+}
+@keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+  0% {opacity:0;}
+  100% {opacity:1;}
+}
+
+.pictures {
+  padding: 30px;
+}
+
+.original-video {
+  padding: 50px 25px 25px 0px;
+}
+
+.cast-pictures {
+  padding: 150px 40px;
+}
+
+.wide-pictures {
+  margin-left: 20px;
+  margin-right: 50px;
+  padding: 0px 0px 10px 10px;
+}
+
+.social-media {
+  padding: 0px 10px 10px 10px;
+  font-size: 28px;
+  color: white;
+}
