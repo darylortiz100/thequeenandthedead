@@ -32,7 +32,7 @@ body {
 
 .body-description {
   text-align: left;
-  padding: 50px 150px;
+  padding: 0px 150px;
 }
 
 .body-page {
@@ -66,6 +66,21 @@ ul {
   font-family: "Frijole", cursive;
   color: red;
   padding: 50px 150px 0px;
+}
+
+.upper-container {
+  padding: 25px 0px;
+
+}
+
+.trailer {
+  text-align: left;
+}
+
+.tqatd-title {
+  font-size: 4rem;
+  padding: 100px 25px 25px 25px;
+  font-family: "Special Elite", cursive;
 }
 
 .slogan {
