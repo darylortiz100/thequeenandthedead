@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/TQATD/static/js/main.0f5ebd3c.js",
-    "index.html": "/TQATD/index.html",
-    "main.0f5ebd3c.js.map": "/TQATD/static/js/main.0f5ebd3c.js.map"
+    "main.js": "/thequeenandthedead/static/js/main.0f5ebd3c.js",
+    "index.html": "/thequeenandthedead/index.html",
+    "main.0f5ebd3c.js.map": "/thequeenandthedead/static/js/main.0f5ebd3c.js.map"
   },
   "entrypoints": [
     "static/js/main.0f5ebd3c.js"
